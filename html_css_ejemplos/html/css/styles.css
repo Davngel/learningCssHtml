@@ -24,3 +24,9 @@ p.spacey {
   word-spacing: 1em;
   line-height: 2.4em;
 }
+h3 {
+  text-align: center;
+}
+p.pretty {
+  text-align: justify;
+}
