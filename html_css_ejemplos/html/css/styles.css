@@ -19,3 +19,8 @@ h1 {
 .standout {
   color: red;
 }
+p.spacey {
+  letter-spacing: 1em;
+  word-spacing: 1em;
+  line-height: 2.4em;
+}
