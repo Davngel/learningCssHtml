@@ -34,6 +34,8 @@ p.tabbed {
   text-indent: 1.5em;
 }
 blockquote {
-  font-size: .9em;
   color: grey;
+}
+p.offset {
+  margin: 2em;
 }
