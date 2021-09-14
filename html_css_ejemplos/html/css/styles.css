@@ -41,4 +41,5 @@ p.offset {
 }
 .enclosed {
   border: 4px solid pink;
+  padding: .5em;
 }
