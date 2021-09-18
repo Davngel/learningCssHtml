@@ -43,3 +43,6 @@ p.offset {
   border: 4px solid pink;
   padding: .5em;
 }
+h4, p.mid {
+  text-align: center;
+}
