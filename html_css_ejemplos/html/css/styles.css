@@ -46,3 +46,6 @@ p.offset {
 h4, p.mid {
   text-align: center;
 }
+h2#warm {
+  color: orange;
+}
